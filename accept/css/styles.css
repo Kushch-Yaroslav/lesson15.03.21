@@ -1,0 +1,14 @@
+@import "./bootstrap-grid.min.css"
+
+*{
+  box-sizing: border-box;
+
+}
+
+.row>div{
+  border: 3px solid red;
+
+}
+.nav-list{
+  display: flex;
+}
